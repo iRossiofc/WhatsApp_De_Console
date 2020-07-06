@@ -1,0 +1,13 @@
+C:\Users\positivo\Documents\projetos\4° sprint\WhatsappConsole\obj\Debug\netcoreapp3.1\WhatsappConsole.csprojAssemblyReference.cache
+C:\Users\positivo\Documents\projetos\4° sprint\WhatsappConsole\obj\Debug\netcoreapp3.1\WhatsappConsole.csproj.CoreCompileInputs.cache
+C:\Users\positivo\Documents\projetos\4° sprint\WhatsappConsole\obj\Debug\netcoreapp3.1\WhatsappConsole.AssemblyInfoInputs.cache
+C:\Users\positivo\Documents\projetos\4° sprint\WhatsappConsole\obj\Debug\netcoreapp3.1\WhatsappConsole.AssemblyInfo.cs
+C:\Users\positivo\Documents\projetos\4° sprint\WhatsappConsole\bin\Debug\netcoreapp3.1\WhatsappConsole.exe
+C:\Users\positivo\Documents\projetos\4° sprint\WhatsappConsole\bin\Debug\netcoreapp3.1\WhatsappConsole.deps.json
+C:\Users\positivo\Documents\projetos\4° sprint\WhatsappConsole\bin\Debug\netcoreapp3.1\WhatsappConsole.runtimeconfig.json
+C:\Users\positivo\Documents\projetos\4° sprint\WhatsappConsole\bin\Debug\netcoreapp3.1\WhatsappConsole.runtimeconfig.dev.json
+C:\Users\positivo\Documents\projetos\4° sprint\WhatsappConsole\bin\Debug\netcoreapp3.1\WhatsappConsole.dll
+C:\Users\positivo\Documents\projetos\4° sprint\WhatsappConsole\bin\Debug\netcoreapp3.1\WhatsappConsole.pdb
+C:\Users\positivo\Documents\projetos\4° sprint\WhatsappConsole\obj\Debug\netcoreapp3.1\WhatsappConsole.dll
+C:\Users\positivo\Documents\projetos\4° sprint\WhatsappConsole\obj\Debug\netcoreapp3.1\WhatsappConsole.pdb
+C:\Users\positivo\Documents\projetos\4° sprint\WhatsappConsole\obj\Debug\netcoreapp3.1\WhatsappConsole.genruntimeconfig.cache
