@@ -7,8 +7,8 @@ namespace WhatsappConsole
         public Contato Destinatario { get; set; }
 
         //enviar mensagens para um contato
-        public string Enviar( Contato contato ){
-            return $"Para: {contato.Nome} \n Mensagem: {Texto}";
+        public string Enviar(){
+            return $"Para: {Destinatario.Nome} \n Mensagem: {Texto}";
         }
     }
 }

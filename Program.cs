@@ -26,7 +26,11 @@ namespace WhatsappConsole
                System.Console.WriteLine($"nome: {item.Nome}, telefone: {item.Telefone}");
            }
 
-           
+           Mensagem conversa = new Mensagem();
+           conversa.Destinatario = hamburgueria;
+           conversa.Texto = "vocês vendem hamburguer?";
+           System.Console.WriteLine( conversa.Enviar() );
+
 
         }
     }
